@@ -8,6 +8,7 @@ import (
 
 var App = &MyServer{}
 
+// 定义一个MyServer结构体
 type MyServer struct {
 }
 
